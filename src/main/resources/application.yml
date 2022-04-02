@@ -1,0 +1,2 @@
+#Legt die Adresse der Datenbank fest
+spring.datasource.url=jdbc:h2:mem:testdb
